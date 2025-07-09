@@ -11,7 +11,7 @@
 > 🌱 현재 WebRTC 기반 화상회의 서비스 개발 중  
 > 🧠 기술적 도전과 사용자 경험 향상에 가치를 둡니다
 
----
+
 <div align="center">
 
 ## 🛠 Tech Stack
@@ -27,15 +27,13 @@
 
 ### **Frontend & Mobile**
 <div>
-  <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue.js" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/vue2.png" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/flutter.png" width="65" height="65" />
 </div>
 
 ### **Backend & API**
 <div>
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/springboot.png" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
 </div>
@@ -44,54 +42,21 @@
 <div>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/firebase.png" width="65" height="65" />
 </div>
 
 ### **DevOps & Tools**
 <div>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/figma.png" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/Baejjyee/Portfolio/refs/heads/main/unity3.png" width="65" height="65" />
 </div>
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baejjyee&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejjyee&layout=compact" width="300"/>
-</div>
-
-# 🔨 Tech Stack
-
-**Language**  
-`Java` `Python` `JavaScript` `C++` `C#`
-
-**Backend**  
-`Spring Boot` `MyBatis` `JPA` `Django`
-
-**Frontend**  
-`Vue.js` `HTML/CSS` `JavaScript` `JSP`
-
-**Database / Infra**  
-`MySQL`  `AWS EC2` `S3` `Firebase`
-
-**Mobile**  
-`Flutter` `Dart`
-
-**Tools**  
-`Git/GitHub` `Unity` `Docker` `Postman` `Figma` `Tmap API` `OpenAPI 활용`
-
-**학습 중인 기술**  
-`Jira` `Hibernate` `QueryDSL` `Jenkins`
-
----
 
 # 🧩 Projects
-
 ## 📚 음향 추출 및 분석을 통한 성대모사 도움 어플리케이션
 > 성대모사 가이드를 제공하는 웹 서비스입니다.  
 > 사용자가 첨부한 음원이나 유튜브 링크에서 음성을 추출하고, 노이즈 제거 및 특징 추출 후 분석에 활용합니다.    
@@ -104,7 +69,6 @@
 - 기여도: 35% (음성 유사도 알고리즘 개발 및 전체 구조 설계)
 - [👉 프로젝트 GitHub 바로가기](https://github.com/orgs/2023-CapstoneDesign-MEMIC/repositories)
 - [👉 프로젝트 보고서 바로가기](https://drive.google.com/file/d/1aNynFb9u3rQcSLSg9IhkmD4JKJMHUtTE/view?usp=sharing)
----
 
 ## 📖 라즈베리파이를 활용한 무인 도서관 시스템
 > 도서 대여·반납과 좌석 예약 기능을 갖춘 무인 도서관 시스템입니다.  
@@ -164,7 +128,7 @@
 - [👉 프로젝트 발표자료 바로가기](https://drive.google.com/file/d/1JwtqMm63ThtxcITAjvNMNelAYld4hr2a/view?usp=sharing)
 - [👉 시연 영상 보기](https://www.youtube.com/watch?v=zj-pUPFEg_Q&ab_channel=%EC%A0%95%ED%95%84%EA%B5%90%5B%EB%B6%80%EC%9A%B8%EA%B2%BD_2%EB%B0%98_E204%5D%ED%8C%80%EC%9B%90)
 
----
+
 ## 📍 화상회의 마피아게임 WebRTC 서비스 (진행중)
 > WebRTC + Spring Boot 기반 실시간 커뮤니케이션 플랫폼  
 > 백엔드 역할, AI 기능 접목 검토 중 (예: 표정 분석, 말하기 감지 등)
@@ -173,7 +137,6 @@
 - 기술: WebRTC, Spring Boot, STUN/TURN 서버, WebSocket
 - 진행: GitHub 협업, 프론트 3 / 백엔드 3 구성
 
----
 ## 🧠 Problem Solving
 
 - **Baekjoon Online Judge**  
@@ -207,14 +170,12 @@
 - **2021.04 ~ 2022.10** 육군 현역 복무  
   ┗ *네트워크 정비 병과*
 
----
 
 # 📫 Contact
 
 - **Email**: bjj3141592@naver.com, bjj3141592@gmail.com
 - **GitHub**: [github.com/baejjyee](https://github.com/baejjyee)
 
----
 
 > 꾸준히 학습하고, 더 나은 문제 해결을 위해 피드백을 환영합니다.  
 > 사용자 경험과 기술적 깊이를 동시에 성장시키는 개발자가 되겠습니다.
