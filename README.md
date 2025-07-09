@@ -12,6 +12,58 @@
 > 🧠 기술적 도전과 사용자 경험 향상에 가치를 둡니다
 
 ---
+<div align="center">
+
+## 🛠 Tech Stack
+
+### **Languages**
+<div>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65"/>
+</div>
+
+### **Frontend & Mobile**
+<div>
+  <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue.js" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65"/>
+</div>
+
+### **Backend & API**
+<div>
+  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
+</div>
+
+### **Database / Infra**
+<div>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65"/>
+</div>
+
+### **DevOps & Tools**
+<div>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="65" height="65"/>
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baejjyee&show_icons=true&theme=default" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejjyee&layout=compact" width="300"/>
+</div>
 
 # 🔨 Tech Stack
 
