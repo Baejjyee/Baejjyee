@@ -138,11 +138,7 @@
 - 진행: GitHub 협업, 프론트 3 / 백엔드 3 구성
 
 ## 🧠 Problem Solving
-
-- **Baekjoon Online Judge**  
-  알고리즘 문제 풀이를 통한 실력 향상 중  
-  👉 https://solved.ac/profile/bjj3141592 (현재 골드 1)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjj3141592)](https://solved.ac/bjj3141592/)
 
 # 🏅 Competitions & Experiences
 
