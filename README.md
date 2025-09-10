@@ -1,14 +1,43 @@
 # 👋 About Me
+준비된 인재 준재!  
+## 🧠 Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjj3141592)](https://solved.ac/bjj3141592/)
 
-안녕하세요! 준비된 인재 준재!   
-다양한 분야의 개발을 직접 경험하며, 실용적이고 사용자 중심의 소프트웨어 개발에 흥미를 느끼는 신입 개발자 배준재입니다.
+# 🏅 Competitions & Experiences
 
-프로젝트 경험과 실무형 과제를 통해 백엔드와 프론트엔드 개발, 협업 기반의 시스템 설계 등을 직접 수행하며 빠르게 성장해왔습니다.  
-기술적 깊이와 사용자 경험을 동시에 고려하는 개발자가 되기 위해 꾸준히 공부하고 있습니다.
+## 🏆 수상 및 공모전
+- **2025.05** SSAFY 관통프로젝트 우수상  
+  ┗ *여행 자동 일정 생성 애플리케이션 개발*
+- **2025.05** SSAFY AI 챌린지 2위  
+  ┗ *Kaggle 포트홀 탐지 모델, Score 0.96733 / 정량평가 1위*
+
+## 📚 자격증
+- **2025.04** SQL 개발자(SQLD) 취득
+- **2025.03** 데이터분석 준전문가(ADsP) 취득
+
+## 🎓 학력 및 교육
+- **2025.02** 중앙대학교 소프트웨어학과 졸업(3.74/4.5)
+- **2025.01** SSAFY 삼성 청년 SW 아카데미 13기 입과
+- **2019.02** 중앙대학교 소프트웨어학과 입학
+- **2019.02** 부산일과학고등학교 졸업
+
+## 🧑‍💼 인턴 및 경력
+- **2024.03 ~ 2024.06** 데이터에듀 인턴  
+  ┗ *연구소 소속 연구원, 시스템 개발 담당*
+
+## 🪖 군 복무
+- **2021.04 ~ 2022.10** 육군 현역 복무  
+  ┗ *네트워크 정비 병과*
 
 
-> 📌 프로젝트 및 실무형 과제 다수 경험  
-> 🧠 기술적 도전과 사용자 경험 향상에 가치를 둡니다
+# 📫 Contact
+
+- **Email**: bjj3141592@naver.com, bjj3141592@gmail.com
+- **GitHub**: [github.com/baejjyee](https://github.com/baejjyee)
+
+
+ 꾸준히 학습하고, 더 나은 문제 해결을 위해 피드백을 환영합니다.  
+ 사용자 경험과 기술적 깊이를 동시에 성장시키는 개발자가 되겠습니다.
 
 
 <div align="center">
@@ -152,41 +181,3 @@ RAG 기반 AI가 레시피와 강의 자료를 참고해 문맥형 답변을 제
 - [👉 프로젝트 보고서 바로가기](https://drive.google.com/file/d/1xOOrNZAG9poC0SMhZJjXSVkxfzYCusN5/view?usp=sharing)
 - [🎮 게임 파일 받기](https://drive.google.com/file/d/1pJKIaH-gok5pShfkoFQ-CJDcVpV6Xv-K/view?usp=drive_link)
 
-## 🧠 Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjj3141592)](https://solved.ac/bjj3141592/)
-
-# 🏅 Competitions & Experiences
-
-## 🏆 수상 및 공모전
-- **2025.05** SSAFY 관통프로젝트 우수상  
-  ┗ *여행 자동 일정 생성 애플리케이션 개발*
-- **2025.05** SSAFY AI 챌린지 2위  
-  ┗ *Kaggle 포트홀 탐지 모델, Score 0.96733 / 정량평가 1위*
-
-## 📚 자격증
-- **2025.04** SQL 개발자(SqlD) 취득
-- **2025.03** 데이터분석 준전문가(AdSP) 취득
-
-## 🎓 학력 및 교육
-- **2025.02** 중앙대학교 소프트웨어학과 졸업
-- **2025.01** SSAFY 삼성 청년 SW 아카데미 13기 입과
-- **2019.02** 중앙대학교 소프트웨어학과 입학
-- **2019.02** 부산일과학고등학교 졸업
-
-## 🧑‍💼 인턴 및 경력
-- **2024.03 ~ 2024.06** 데이터에듀 인턴  
-  ┗ *연구소 소속 연구원, 시스템 개발 담당*
-
-## 🪖 군 복무
-- **2021.04 ~ 2022.10** 육군 현역 복무  
-  ┗ *네트워크 정비 병과*
-
-
-# 📫 Contact
-
-- **Email**: bjj3141592@naver.com, bjj3141592@gmail.com
-- **GitHub**: [github.com/baejjyee](https://github.com/baejjyee)
-
-
-> 꾸준히 학습하고, 더 나은 문제 해결을 위해 피드백을 환영합니다.  
-> 사용자 경험과 기술적 깊이를 동시에 성장시키는 개발자가 되겠습니다.
