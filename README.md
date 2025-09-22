@@ -85,7 +85,7 @@
 </div>
 
 # Portfolio
-[포트폴리오 보기](https://drive.google.com/file/d/13j8KhSxTDghABNrFvv0S68PCmkF4cISC/view?usp=sharing)
+[👉포트폴리오 보기](https://drive.google.com/file/d/13j8KhSxTDghABNrFvv0S68PCmkF4cISC/view?usp=sharing)
 # 🧩 Projects
 ## 🍳 제스쳐를 이용한 실시간 요리 클래스 (Reciplay)
 >Reciplay는 **제스처 인식과 실시간 화상 강의**를 결합한 상호작용형 요리 학습 플랫폼입니다.  
